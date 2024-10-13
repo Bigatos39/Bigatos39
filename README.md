@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Vi</h1>
-- 🌱 I’m currently learning **Geant4, ROOT**
+- 🌱 I’m currently learning  **Geant4, ROOT**
 
 - 📫 How to reach me **rasagenvi@gmail.com**
 
