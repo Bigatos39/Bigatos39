@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nguyen Vi</h1>
+<h1 align="center">Hi 👋, I'm Nguyễn Hoàng Khả Vĩ</h1>
 
 - 🌱 I’m currently learning **Geant4, ROOT, Machine Learning**
 
