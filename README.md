@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Geant4, ROOT, Machine Learning**
 
-- 🤝 I’m looking for help with **Machine learning method in high-energy physics**
+- 🤝 I’m looking for help with **Machine learning in high-energy physics**
 
 - 📫 How to reach me **rasagenvi@gmail.com**
 
